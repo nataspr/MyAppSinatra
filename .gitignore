@@ -1,0 +1,23 @@
+# Bundler
+/.bundle/
+/vendor/bundle/
+Gemfile.lock
+
+# Переменные окружения
+.env
+.env.*
+!.env.example
+
+# Логи и временные файлы
+/log/
+/tmp/
+*.log
+
+# IDE
+/.idea/
+/.vscode/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
